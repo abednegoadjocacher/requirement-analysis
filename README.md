@@ -37,3 +37,18 @@ _Because getting this phase right means avoiding costly mistakes later on. If th
     - __Review and Approval__: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
     - __Acceptance Criteria__: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
     - __Traceability__: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+# Types of Requirements
+   - ## Functional Requirements
+    - _Functional requirements_ are product features that developers must implement to enable the users to achieve their goals. They define the basic system behavior under specific conditions. __OR__ It describes what the system should do
+    - _Examples for the booking management_
+        - __User authentication__: Secure login and registration process for users. 
+        - __Property search__: Users should be able to search for properties based on various criteria such as location, price, and availability.
+        - __Booking system__: Users should be able to book properties, view booking details, and manage their bookings
+        - __User registration__: New users should be able to create an account with personal details and login credentials.
+- ## Non-functional Requirements 
+    - _Non-functional requirements_ are system qualities that guide the design of the solution and often serve as constraints across the relevant backlogs.__OR__ It describes how the system should perform
+    - _Examples for the booking management_
+        - __Maintainability__: How easy it is to update and modify the system
+        - __Performance__: The system should load pages within 3 seconds and handle up to 2000 concurrent users.
+        - __Security__: Ensure data encryption, secure login, and protect against common vulnerabilities
+        - __Usability__: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
