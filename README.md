@@ -38,8 +38,8 @@ _Because getting this phase right means avoiding costly mistakes later on. If th
     - __Acceptance Criteria__: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
     - __Traceability__: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 # Types of Requirements
-   - ## Functional Requirements
-    - _Functional requirements_ are product features that developers must implement to enable the users to achieve their goals. They define the basic system behavior under specific conditions. __OR__ It describes what the system should do
+- ## Functional Requirements
+    - _Functional requirements_ are product features that developers must implement to enable the users to achieve their goals. They define the basic system behavior under specific conditions.  __OR__ It describes what the system should do
     - _Examples for the booking management_
         - __User authentication__: Secure login and registration process for users. 
         - __Property search__: Users should be able to search for properties based on various criteria such as location, price, and availability.
