@@ -12,4 +12,28 @@ _Because getting this phase right means avoiding costly mistakes later on. If th
  - _**Scope Definition**_: Clearly defines the scope of the project, which helps in preventing scope creep.
  - _**Basis for Design and Development**_: Provides a solid foundation for designing and developing the system.
  - _**Cost and Time Estimation**_: Facilitates accurate estimation of project cost, resources, and time.
- - _**Quality Assurance**_: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.- 
+ - _**Quality Assurance**_: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+
+ # Key Activities in Requirement Analysis.
+- ### __Requirement Gathering__
+    - __Interviews__: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+    - __Surveys/Questionnaires__: Distributing surveys to collect requirements from a larger audience.
+    - __Workshops__: Organizing workshops with stakeholders to discuss and gather requirements.
+    - __Observation__: Observing end-users in their working environment to understand their needs.
+    - __Document Analysis__: Reviewing existing documentation and systems to understand current functionalities and requirements.
+- ### __Requirement Elicitation__
+    - __Brainstorming__: Conducting brainstorming sessions to generate ideas and gather requirements.
+    - __Focus Groups__: Holding focus group discussions with selected stakeholders to gather detailed requirements.
+    - __Prototyping__: Creating prototypes to help stakeholders visualize the system and refine their requirements.
+- ### __Requirement Documentation__
+    - __Requirement Specification Document__: Creating a detailed document that lists all functional and non-functional requirements.
+    - __User Stories__: Writing user stories to describe functionalities from the user’s perspective.
+    - __Use Cases__: Creating use case diagrams to show interactions between users and the system.
+- ### __Requirement Analysis and Modeling__
+    - __Requirement Prioritization__: Prioritizing requirements based on their importance and impact on the project.
+    - __Feasibility Analysis__: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
+    - __Modeling__: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
+- ### __Requirement Validation.__
+    - __Review and Approval__: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
+    - __Acceptance Criteria__: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
+    - __Traceability__: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
