@@ -60,4 +60,4 @@ Therefore, use case diagrams show how different users (actors) interact with the
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 ### Below is an image of Use Case Diagram
-![alx-booking-uc](C:\Users\abedn\OneDrive\Desktop\requirement-analysis\alx-booking-uc.png)
+![alx-booking-uc](requirement-analysis\alx-booking-uc.png)
