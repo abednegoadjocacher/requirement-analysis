@@ -61,3 +61,15 @@ Therefore, use case diagrams show how different users (actors) interact with the
 - Facilitate communication among stakeholders and development team.
 ### Below is an image of Use Case Diagram
 ![alx-booking-uc](assets/alx-booking-uc.png)
+# Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+## What is the importance of Acceptance Criteria?
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+__Example of acceptance criteria for Checkout feature in the booking management system__
+- Users should be able to select available dates.
+- Users should be able confirm booking.
+- Users should be able to receive an OTP confirmation via SMS before making payment.
+- User should be able to select a single payment method.
+- Users should receive a confirmation email within 2 minutes.
