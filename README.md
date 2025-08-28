@@ -52,3 +52,12 @@ _Because getting this phase right means avoiding costly mistakes later on. If th
         - __Performance__: The system should load pages within 3 seconds and handle up to 2000 concurrent users.
         - __Security__: Ensure data encryption, secure login, and protect against common vulnerabilities
         - __Usability__: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+# Use Case Diagrams
+Use Case Diagrams gives visual representation of interactions between users and the system.
+Therefore, use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+## Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+### Below is an image of Use Case Diagram
+![alx-booking-uc](C:\Users\abedn\OneDrive\Desktop\requirement-analysis\alx-booking-uc.png)
